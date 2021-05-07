@@ -1,0 +1,24 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "Men's Fashion",
+        "category_image": "polo"
+    },
+    
+    
+    
+    {
+        "category_id": 2,
+        "category_name": "Women's Fashion",
+        "category_image": "dress"
+    },
+    
+    
+    
+    {
+        "category_id": 3,
+        "category_name": "Baby & Kids",
+        "category_image": "rocking-horse"
+    }
+]
+

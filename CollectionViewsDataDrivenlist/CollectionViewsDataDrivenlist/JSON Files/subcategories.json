@@ -1,0 +1,64 @@
+[
+    {
+        "subcategory_id": 1,
+        "subcategory_name": "Tops",
+        "subcategory_image": "tshirt",
+        "from_category_id": 1
+    },
+    {
+        "subcategory_id": 2,
+        "subcategory_name": "Shorts",
+        "subcategory_image": "shorts",
+        "from_category_id": 1,
+    },
+    {
+        "subcategory_id": 3,
+        "subcategory_name": "Shoes",
+        "subcategory_image": "sneakers",
+        "from_category_id": 1,
+    },
+    
+    
+    
+    {
+        "subcategory_id": 4,
+        "subcategory_name": "Dresses",
+        "subcategory_image": "long-dress",
+        "from_category_id": 2
+    },
+    {
+        "subcategory_id": 5,
+        "subcategory_name": "Skirts",
+        "subcategory_image": "female-skirt",
+        "from_category_id": 2
+    },
+    {
+        "subcategory_id": 6,
+        "subcategory_name": "Shoes",
+        "subcategory_image": "high-heels-cartoon",
+        "from_category_id": 2,
+    },
+    
+    
+    
+    {
+        "subcategory_id": 7,
+        "subcategory_name": "Baby Clothes",
+        "subcategory_image": "baby-clothes",
+        "from_category_id": 3
+    },
+    {
+        "subcategory_id": 8,
+        "subcategory_name": "Toys",
+        "subcategory_image": "toy",
+        "from_category_id": 3
+    },
+    {
+        "subcategory_id": 9,
+        "subcategory_name": "Educational",
+        "subcategory_image": "abc",
+        "from_category_id": 3
+    }
+    
+]
+

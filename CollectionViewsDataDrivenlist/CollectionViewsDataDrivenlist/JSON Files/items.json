@@ -1,0 +1,315 @@
+[
+    {
+        "item_id": 1,
+        "item_name": "R-neck T-shirt",
+        "item_image": "rneck",
+        "item_price": 453,
+        "item_description": "White",
+        "from_subcategory_id": 1
+    },
+    {
+        "item_id": 2,
+        "item_name": "V-neck T-shirt",
+        "item_image": "vneck",
+        "item_price": 324,
+        "item_description": "Black",
+        "from_subcategory_id": 1
+    },
+    {
+        "item_id": 3,
+        "item_name": "Stripes Shirt",
+        "item_image": "stripes-shirt",
+        "item_price": 567,
+        "item_description": "Stripe Blue & White",
+        "from_subcategory_id": 1
+    },
+    {
+        "item_id": 4,
+        "item_name": "Sports Shirt",
+        "item_image": "sports-shirt",
+        "item_price": 353,
+        "item_description": "Green/Black",
+        "from_subcategory_id": 1
+    },
+    
+    
+    
+    {
+        "item_id": 5,
+        "item_name": "Running Short",
+        "item_image": "running-short",
+        "item_price": 234,
+        "item_description": "Black",
+        "from_subcategory_id": 2
+    },
+    {
+        "item_id": 6,
+        "item_name": "Denim Short",
+        "item_image": "denim",
+        "item_price": 787,
+        "item_description": "Blue",
+        "from_subcategory_id": 2
+    },
+    {
+        "item_id": 7,
+        "item_name": "Cargo Short",
+        "item_image": "cargo",
+        "item_price": 456,
+        "item_description": "Brown",
+        "from_subcategory_id": 2
+    },
+    {
+        "item_id": 8,
+        "item_name": "Swimming Trunks",
+        "item_image": "trunks",
+        "item_price": 676,
+        "item_description": "Green",
+        "from_subcategory_id": 2
+    },
+    
+    
+    
+    {
+        "item_id": 9,
+        "item_name": "Vans",
+        "item_image": "vans",
+        "item_price": 453,
+        "item_description": "Black & White",
+        "from_subcategory_id": 3
+    },
+    {
+        "item_id": 10,
+        "item_name": "Jordan 11",
+        "item_image": "jordan11",
+        "item_price": 324,
+        "item_description": "Red & Black",
+        "from_subcategory_id": 3
+    },
+    {
+        "item_id": 11,
+        "item_name": "Leather Shoes",
+        "item_image": "leather-shoes",
+        "item_price": 567,
+        "item_description": "Black",
+        "from_subcategory_id": 3
+    },
+    {
+        "item_id": 12,
+        "item_name": "Rubber Shoes",
+        "item_image": "rubber-shoes",
+        "item_price": 353,
+        "item_description": "Blue",
+        "from_subcategory_id": 3
+    },
+    
+    
+    
+    {
+        "item_id": 13,
+        "item_name": "Shift Dress",
+        "item_image": "shift-dress",
+        "item_price": 989,
+        "item_description": "Orange",
+        "from_subcategory_id": 4
+    },
+    {
+        "item_id": 14,
+        "item_name": "Sheath Dress",
+        "item_image": "sheath-dress",
+        "item_price": 534,
+        "item_description": "Pink",
+        "from_subcategory_id": 4
+    },
+    {
+        "item_id": 15,
+        "item_name": "Halter Dress",
+        "item_image": "halter-dress",
+        "item_price": 122,
+        "item_description": "White",
+        "from_subcategory_id": 4
+    },
+    {
+        "item_id": 16,
+        "item_name": "Wrap Dress",
+        "item_image": "wrap-dress",
+        "item_price": 344,
+        "item_description": "Gray",
+        "from_subcategory_id": 4
+    },
+    
+    
+    
+    {
+        "item_id": 17,
+        "item_name": "Bubble Skirt",
+        "item_image": "bubble-skirt",
+        "item_price": 677,
+        "item_description": "Pink",
+        "from_subcategory_id": 5
+    },
+    {
+        "item_id": 18,
+        "item_name": "Button-up Skirt",
+        "item_image": "button-up",
+        "item_price": 123,
+        "item_description": "Maroon",
+        "from_subcategory_id": 5
+    },
+    {
+        "item_id": 19,
+        "item_name": "Broomstick Skirt",
+        "item_image": "broomstick",
+        "item_price": 434,
+        "item_description": "Orange",
+        "from_subcategory_id": 5
+    },
+    {
+        "item_id": 20,
+        "item_name": "Accordion Skirt",
+        "item_image": "accordion",
+        "item_price": 232,
+        "item_description": "Yellow",
+        "from_subcategory_id": 5
+    },
+    
+    
+    
+    {
+        "item_id": 21,
+        "item_name": "Running Shoes",
+        "item_image": "running-shoes",
+        "item_price": 434,
+        "item_description": "Pink",
+        "from_subcategory_id": 6
+    },
+    {
+        "item_id": 22,
+        "item_name": "Sandals",
+        "item_image": "sandals",
+        "item_price": 544,
+        "item_description": "Brown",
+        "from_subcategory_id": 6
+    },
+    {
+        "item_id": 23,
+        "item_name": "Heels",
+        "item_image": "heels",
+        "item_price": 345,
+        "item_description": "Gold",
+        "from_subcategory_id": 6
+    },
+    {
+        "item_id": 24,
+        "item_name": "High-heels",
+        "item_image": "high-heels",
+        "item_price": 565,
+        "item_description": "Orange",
+        "from_subcategory_id": 6
+    },
+    
+    
+    
+    {
+        "item_id": 25,
+        "item_name": "All-in-one Suits",
+        "item_image": "all-in-one",
+        "item_price": 434,
+        "item_description": "Brown Teddy Bear Design",
+        "from_subcategory_id": 7
+    },
+    {
+        "item_id": 26,
+        "item_name": "Baby Shoes",
+        "item_image": "baby-shoes",
+        "item_price": 544,
+        "item_description": "Rabbit Design",
+        "from_subcategory_id": 7
+    },
+    {
+        "item_id": 27,
+        "item_name": "Hat",
+        "item_image": "baby-hat",
+        "item_price": 345,
+        "item_description": "Gray",
+        "from_subcategory_id": 7
+    },
+    {
+        "item_id": 28,
+        "item_name": "Pajamas",
+        "item_image": "pajamas",
+        "item_price": 565,
+        "item_description": "White",
+        "from_subcategory_id": 7
+    },
+    
+    
+    
+    {
+        "item_id": 29,
+        "item_name": "Hand Bell",
+        "item_image": "hand-bell",
+        "item_price": 434,
+        "item_description": "Monkey Design",
+        "from_subcategory_id": 8
+    },
+    {
+        "item_id": 30,
+        "item_name": "Teddy Bear",
+        "item_image": "teddy-bear",
+        "item_price": 544,
+        "item_description": "Brown",
+        "from_subcategory_id": 8
+    },
+    {
+        "item_id": 31,
+        "item_name": "Barbie Doll",
+        "item_image": "barbie",
+        "item_price": 345,
+        "item_description": "Barbie w/ Pink Dress",
+        "from_subcategory_id": 8
+    },
+    {
+        "item_id": 32,
+        "item_name": "Ball",
+        "item_image": "ball",
+        "item_price": 565,
+        "item_description": "Small & Assorted Colors",
+        "from_subcategory_id": 8
+    },
+    
+    
+    
+    {
+        "item_id": 33,
+        "item_name": "Stacks",
+        "item_image": "stacks",
+        "item_price": 434,
+        "item_description": "Collection stacks",
+        "from_subcategory_id": 9
+    },
+    {
+        "item_id": 34,
+        "item_name": "Alphabet Flash Cards",
+        "item_image": "flash-cards",
+        "item_price": 544,
+        "item_description": "Alphabet Flash Cards",
+        "from_subcategory_id": 9
+    },
+    {
+        "item_id": 35,
+        "item_name": "Books",
+        "item_image": "books",
+        "item_price": 345,
+        "item_description": "Book of Fairy Tales",
+        "from_subcategory_id": 9
+    },
+    {
+        "item_id": 36,
+        "item_name": "Shapes",
+        "item_image": "shapes",
+        "item_price": 565,
+        "item_description": "Various shapes",
+        "from_subcategory_id": 9
+    }
+]
+
